@@ -1,6 +1,6 @@
 # Profile.py
 #
-# ICS 32 Winter 2022
+# I/C/S 32/ Winter 2022
 # Assignment #2: Journal
 #
 # Author: Mark S. Baldwin
