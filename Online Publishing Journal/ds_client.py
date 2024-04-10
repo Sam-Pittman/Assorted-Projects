@@ -1,4 +1,4 @@
-# Starter code for assignment 3 in ICS 32 Programming with Software Libraries in Python
+# Starter code for assignment 3 in I/C/S 3/2 Programming with Software Libraries
 
 # Replace the following placeholders with your information.
 
